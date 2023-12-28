@@ -24,4 +24,6 @@ GOOGLE_API_KEY=your_api_key_here
 
 ### Running the Application
 Run the main.py file:
-``` streamlit run app.py```
+```run
+streamlit run app.py
+```
