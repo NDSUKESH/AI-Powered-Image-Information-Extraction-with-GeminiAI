@@ -13,3 +13,14 @@ Before running the code, ensure you have the required libraries installed. You c
 ```bash
 pip install -r requirements.txt
 ```
+### Setting up Environment Variables
+
+Create a `.env` file in the project directory and add your Google API key:
+
+```dotenv
+GOOGLE_API_KEY=your_api_key_here
+```
+
+### Running the Application
+Run the main.py file:
+``` streamlit run app.py```
