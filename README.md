@@ -32,3 +32,13 @@ streamlit run app.py
 - Enter a prompt in the provided text input.
 - Upload an image (supported formats: jpg, jpeg, png).
 - Click the "RUN" button to generate information based on the input and image.
+
+### Model Information
+The code uses the GeminiAI Generative Model named 'gemini-pro-vision' for image analysis.
+
+### Dependencies
+- Python 3.10
+- Streamlit
+- Pillow (PIL)
+- GeminiAI
+
