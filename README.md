@@ -27,3 +27,8 @@ Run the main.py file:
 ```run
 streamlit run app.py
 ```
+
+### Usage
+- Enter a prompt in the provided text input.
+- Upload an image (supported formats: jpg, jpeg, png).
+- Click the "RUN" button to generate information based on the input and image.
