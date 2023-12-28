@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project utilizes the GeminiAI Generative Model to extract information from images based on user input. The code is designed to take an image and a user prompt, then generate relevant information using the GeminiAI API.
+This project utilizes the GeminiAI Generative Model by GOOGLE to extract information from images based on user input. The code is designed to take an image and a user prompt, then generate relevant information using the GeminiAI API.
 
 ## Getting Started
 
