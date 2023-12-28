@@ -42,3 +42,5 @@ The code uses the GeminiAI Generative Model named 'gemini-pro-vision' for image 
 - Pillow (PIL)
 - GeminiAI
 
+### Output
+![output](https://github.com/NDSUKESH/AI-Powered-Image-Information-Extraction-with-GeminiAI/assets/85696992/037bf9b6-4893-4f88-a5d8-457d3fa8b9fe)
